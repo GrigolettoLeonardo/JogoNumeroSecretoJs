@@ -1,6 +1,6 @@
 //Armazenando número aleatório
 let listaNumerosAleatorios = [];
-let numeroLimite = 25;
+let numeroLimite = 100;
 let numeroAleatorio = geraNumberAleatorio();
 let tentativas = 1;
 
